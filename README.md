@@ -2,6 +2,8 @@
 ```
 Budget Box App, with a frontend built in React & Redux and a backend built in Django API.
 ```
+#FRONTEND LINK- [https://budget-box-frontend.saniulmallik.repl.co/]
+#BACKEND LINK- [https://Budget-box-backend.saniulmallik.repl.co]
 
 ## Tech used
 ```
